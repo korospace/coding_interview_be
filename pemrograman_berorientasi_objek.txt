@@ -1,0 +1,26 @@
+1. Berikan penjelasan tentang Pemrograman Berorientasi Objek atau OOP!
+
+    salah satu dari paradigma pemrograman dimana seluruh data dan fungsi dikemas dalam class yang nantinya bisa kita instansiasi menjadi objek-objek sebanyak yang kita mau. objek yang sudah dibuat dapat menerima data, memprosesnya dan dapat juga dikirim ke objek lainnya
+
+2. Berikan alasan kenapa perlu memahami tentang konsep Pemrograman Berorientasi Objek atau
+PBO?
+
+    Ketika berhadapan dengan projet yang rumit akan jadi mudah dengan menggunakan oop. karena code yang kita buat akan terstruktur
+
+3. Apa saja fitur utama yang ada dalam Pemrograman Berorientasi Objek atau OOP? Berikan
+penjelasan detail dari masing - masing komponen!
+    a. encapsulation
+    dengan encapsulation kita bisa membuat beberapa atribute menjadi private. hal ini dapat menghindari terjadi nya perubahan nilai secara tidak sengaja
+
+    b. Inheritance
+    sesuai artinya yakni pewarisan dimana suatu class dapat mewariskan atribute ke class turunan-nya sehingga class turunan tersebut dapat menggunakan attribute milik class induk tanpa di deklarasi ulang
+
+    c. polymorphism
+    sebuah objek dapat memiliki banyak bentuk
+
+4. Apa keuntungan menggunakan Pemrograman Berorientasi Objek atau OOP?
+
+    jika menerapkan konsep oop codingan kita akan lebih terstruktur sehingga akan mudah untuk dimaintenance. ini sangan membantu ketika kita bekerja dalam tim
+
+
+
