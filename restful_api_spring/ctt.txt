@@ -1,0 +1,12 @@
+1. Menambah Dependency
+
+    1. buka command pallet ctrl+shift+p
+    2. ketik spring add starter, pilih lalu enter
+
+2. Configurasi database
+
+    1. buka file resources/application.properties
+
+3. 
+    1. @GeneratedValue(strategy = GenerationType.IDENTITY) // auto-increment
+    2. @Column(name="product_name",length=500,unique=true)
